@@ -1,5 +1,5 @@
 //-----------------------------Constants--------------------------------//
-const numBombs = 3;
+const numBombs = 5;
 const flaggedColor = "66ffff"
 const tileColor = "rgb(179, 179, 255)"
 const emptyColor = "rgb(163, 163, 194)"
@@ -367,7 +367,9 @@ function startUp() {
     render();
 }
 
-
+function sayHi(name) {
+    console.log("Hello, ", name)
+}
 
 startUp()
 reset()
