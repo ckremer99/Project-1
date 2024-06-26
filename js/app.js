@@ -367,9 +367,6 @@ function startUp() {
     render();
 }
 
-function sayHi(name) {
-    console.log("Hello, ", name)
-}
 
 startUp()
 reset()
