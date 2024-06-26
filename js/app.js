@@ -1,5 +1,5 @@
 //-----------------------------Constants--------------------------------//
-const numBombs = 5;
+const numBombs = 8;
 const flaggedColor = "66ffff"
 const tileColor = "rgb(179, 179, 255)"
 const emptyColor = "rgb(163, 163, 194)"
