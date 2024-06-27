@@ -367,9 +367,5 @@ function startUp() {
     render();
 }
 
-function sayHello() {
-    console.log("hello world");
-}
-
 startUp()
 reset()
