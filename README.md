@@ -5,7 +5,7 @@
 ![Game Screenshot](images/minesweeper-screenshot.png)
 
 ## Getting Started
-> Follow this [link](https://ckremer99.github.io/minesweeper/) to get to my deployed game. 
+> Follow this [link](https://ckremer99.github.io/minesweeper/) to get to my deployed game. Here is the link to my [planning materials](https://git.generalassemb.ly/ckremer17/Project-1-planning.git)
 
 ## Technologies Used
 > The languages used in this application were HTML, CSS, and Javascript.
